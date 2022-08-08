@@ -1,0 +1,1 @@
+link to tutoria - https://auth0.com/blog/spring-cloud-messaging-with-aws-and-localstack/
